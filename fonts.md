@@ -15,8 +15,6 @@ margin-top: 1.56em;
 font-size: 18px;
 margin-bottom: -0.46em;
 font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
-letter-spacing: -0.004em;
-line-height: 1.58;
 font-style: normal;
 word-break: break-word;
 color: rgba(41, 41, 41, 1);
