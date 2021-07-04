@@ -44,7 +44,8 @@ Keep this in mind while doing this
 
 #### ii. Sub point 2
 
-Kjg afn kaacp fwsfvk 
+Kjg afn kaacp fwsfvk
+- **Note: Noted**
 
 
 
